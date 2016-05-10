@@ -8,6 +8,7 @@
 
 namespace fds
 {
+  // Array container implemantetion based on byte array as a storage.
   template <typename T>
   class array
   {
