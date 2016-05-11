@@ -32,6 +32,7 @@ namespace fds
 
     size_t size() const { return m_size; }
 
+    // Iterator
     class iterator
     {
     public:
